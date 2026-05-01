@@ -58,12 +58,12 @@ This is where Claude Code looks for skills.
 From the `redesigned-existence-main` folder you unzipped:
 
 1. Open `.claude/skills/` inside the unzipped folder.
-2. Select all 7 skill folders (`voice-mirror`, `thought-partner-skeptic`, and the rest).
+2. Select all 8 skill folders (`voice-mirror`, `thought-partner-skeptic`, and the rest).
 3. Copy them: `Cmd + C` on Mac, `Ctrl + C` on Windows.
 4. Go to your home `.claude/skills/` folder (from Step 3).
 5. Paste them: `Cmd + V` on Mac, `Ctrl + V` on Windows.
 
-You should now have 7 folders inside `~/.claude/skills/`.
+You should now have 8 folders inside `~/.claude/skills/`.
 
 ### Step 5. Restart Claude Code
 
@@ -142,6 +142,6 @@ The skill will run for that conversation. Start a new chat to use a different sk
 
 ## Removing the skills
 
-Delete the 7 folders from `~/.claude/skills/`. That's it.
+Delete the 8 folders from `~/.claude/skills/`. That's it.
 
 Your voice profiles, decision journals, weekly-compound files, and anything else the skills created stay in whatever folders you saved them to. They're yours.

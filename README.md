@@ -1,8 +1,8 @@
-# Redesigned Existence — Pack 1
+# Redesigned Existence
 
-Seven Claude Code skills that make your AI act less like a search engine and more like a sharp colleague.
+Eight Claude Code skills that make your AI act less like a search engine and more like a sharp colleague.
 
-No API keys. No Python. No setup pain. Drop seven folders in the right place and you're done.
+No API keys. No Python. No setup pain. Drop eight folders in the right place and you're done.
 
 ## What you get
 
@@ -13,6 +13,7 @@ No API keys. No Python. No setup pain. Drop seven folders in the right place and
 | `meeting-blindspot` | Reads a transcript and shows you where you should have pushed back | After any meeting that mattered |
 | `inbox-intent-triage` | Sorts emails by whether they advance your goals, not by time | Daily or when inbox is overwhelming |
 | `offer-stress-test` | Red-teams any offer, pitch, or sales copy — 7 reasons a buyer says no | Before you ship any pitch |
+| `red-team-this` | Kill-switch audit. Drops helper mode and runs an adversarial review through cofounder, CFO, or COO lens | Mid-build, when you suspect you're avoiding the harder work |
 | `weekly-compound` | Friday ritual that shows what compounded, what leaked, and what bet to make next | Once a week, same day |
 | `decision-journal` | Logs decisions with schema so your AI can reason across them later | Every time you make a real call |
 
@@ -48,8 +49,9 @@ If you're new to all of this, run them in this order:
 3. **`thought-partner-skeptic`** — Use it on your next idea you're excited about. See what falls.
 4. **`weekly-compound`** — Set a Friday calendar block. Do it once, you'll do it forever.
 5. **`offer-stress-test`** — Next time you write anything that asks for money or a yes.
-6. **`meeting-blindspot`** — Your next meeting that has stakes.
-7. **`inbox-intent-triage`** — When your inbox is loud and you're small.
+6. **`red-team-this`** — When you've been heads-down building for two hours and want a hard check.
+7. **`meeting-blindspot`** — Your next meeting that has stakes.
+8. **`inbox-intent-triage`** — When your inbox is loud and you're small.
 
 ## What makes these different
 
@@ -68,10 +70,8 @@ MIT. Use them, remix them, share them, sell products on top of them. Keep the at
 
 ## Built by
 
-[Max Kyllonen](https://github.com/mkyllonen) — AI implementation consultant. This is Pack 1 of a series.
-
-If these helped, the next packs get deeper. Follow or watch the repo for drops.
+[Max Kyllonen](https://github.com/mkyllonen) — AI implementation consultant.
 
 ---
 
-**Troubleshooting, feedback, or ideas for Pack 2?** Open an issue on this repo.
+**Troubleshooting, feedback, or ideas?** Open an issue on this repo.
